@@ -1,0 +1,195 @@
+body {
+    width: auto;
+    margin: 0;
+    background-color: gray;
+}
+
+.principal {
+    background-color: white;
+    border-radius: 15px;
+    width: 195px;
+    height: 400px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    float: left;
+    margin-right: 22px;
+    margin-top: 130px;
+}
+
+#cercle-1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    background-image: url('images/analyze.png');
+    float: left;
+    margin-right: 3px;
+    margin-left: 22px;
+    -webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
+    -ms-border-radius: 300px;
+    -o-border-radius: 300px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+#cercle-2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-left: 22px;
+    background-image: url('images/sleep.jpeg');
+    float: left;
+    margin-right: 3px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+#cercle-3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-left: 22px;
+    background-image: url('images/relax.jpeg');
+    float: left;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Relax {
+    color: rgb(128, 175, 247);
+}
+
+#Sleep {
+    color: rgb(248, 46, 46);
+}
+
+#Analyze {
+    color: rgb(36, 241, 248);
+}
+
+p {
+    text-align: center;
+    font-size: 13.5px;
+    display: block;
+}
+
+.point {
+    margin-left: 80px;
+    margin-bottom: 40px;
+}
+
+.clear {
+    clear: both;
+}
+
+#cercles-1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+    margin-right: 3px;
+}
+
+#cercles-2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+    margin-right: 3px;
+}
+
+#cercles-3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: rgb(36, 241, 248);
+    float: left;
+}
+
+#cercl-1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+    margin-right: 3px;
+}
+
+#cercl-2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: rgb(248, 46, 46);
+    float: left;
+    margin-right: 3px;
+}
+
+#cercl-3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+}
+
+#cercls-1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: rgb(128, 175, 247);
+    float: left;
+    margin-right: 3px;
+}
+
+#cercls-2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+    margin-right: 3px;
+}
+
+#cercls-3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background: gray;
+    float: left;
+}
+
+#button-1 {
+    background-color: rgb(128, 175, 247);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    width: 125px;
+    height: 30px;
+    margin-left: 33.5px;
+}
+
+#button-2 {
+    background-color: rgb(248, 46, 46);
+    border-radius: 20px;
+    width: 125px;
+    height: 30px;
+    margin-left: 33.5px;
+}
+
+#button-3 {
+    background-color: rgb(36, 241, 248);
+    border-radius: 20px;
+    width: 125px;
+    height: 30px;
+    margin-left: 33.5px;
+}
